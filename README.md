@@ -1,4 +1,4 @@
-images
+Images
 ======
 
-two images for qemu
+Prebuilt images for emulators.
